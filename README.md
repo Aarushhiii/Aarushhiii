@@ -2,7 +2,7 @@
 
 I'm a developer from India exploring network security and AI.
 I've built a network traffic analyzer (PCAP) and an LLM-based 
-Q&A chatbot, and I'm currently learning NoSQL, AI/ML, and IoT with LoRaWAN.
+Q&A chatbot, and I'm currently learning AI/ML, and IoT with LoRaWAN.
 
 Always building, always learning — open to collaborating on 
 interesting Python projects.
@@ -12,6 +12,8 @@ interesting Python projects.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-306998?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🌱 Currently Learning
 
