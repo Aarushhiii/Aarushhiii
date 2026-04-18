@@ -8,14 +8,15 @@ Always building, always learning — open to collaborating on
 interesting Python projects.
 
 ## 🛠️ Currently Working With
-## 🛠️ Currently Working With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-306998?style=flat&logo=python&logoColor=white)
 
 ## 🌱 Currently Learning
-AI/ML · LoRaWAN · Data Visualization 
+
+![ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00599C?style=flat&logo=semtech&logoColor=white)
 
 ## 📌 Projects
 - 🔬 [PCAP Analyzer](https://github.com/Aarushhiii/online-pcap-analyzer)
@@ -23,3 +24,4 @@ AI/ML · LoRaWAN · Data Visualization
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/aarushi-jain-448606195/)
+Gmail: aarushijain.1020@gmail.com
