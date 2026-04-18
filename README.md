@@ -8,7 +8,11 @@ Always building, always learning — open to collaborating on
 interesting Python projects.
 
 ## 🛠️ Currently Working With
-Python · Streamlit · Scapy · LLMs 
+## 🛠️ Currently Working With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-306998?style=flat&logo=python&logoColor=white)
 
 ## 🌱 Currently Learning
 AI/ML · LoRaWAN · Data Visualization 
