@@ -24,4 +24,4 @@ interesting Python projects.
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/aarushi-jain-448606195/)
-Gmail: aarushijain.1020@gmail.com
+aarushijain.1020@gmail.com
