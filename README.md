@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aarushi Jain 👋
 
-<!--
-**Aarushhiii/Aarushhiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from India exploring network security and AI.
+I've built a network traffic analyzer (PCAP) and an LLM-based 
+Q&A chatbot, and I'm currently learning NoSQL, AI/ML, and IoT with LoRaWAN.
 
-Here are some ideas to get you started:
+Always building, always learning — open to collaborating on 
+interesting Python projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Working With
+Python · Streamlit · Scapy · LLMs 
+
+## 🌱 Currently Learning
+AI/ML · LoRaWAN · Data Visualization 
+
+## 📌 Projects
+- 🔬 [PCAP Analyzer](https://github.com/Aarushhiii/online-pcap-analyzer)
+- 🤖 [LLM ChatBot](https://github.com/Aarushhiii/QA-ChatBot-using-Llama2)
+
+## 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/aarushi-jain-448606195/)
