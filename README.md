@@ -20,9 +20,14 @@ interesting Python projects.
 ![ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-00599C?style=flat&logo=semtech&logoColor=white)
 
+## 🎖️ Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fc474c0-4ccd-400a-8a42-c8ffb8e0632e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 📌 Projects
 - 🔬 [PCAP Analyzer](https://github.com/Aarushhiii/online-pcap-analyzer)
 - 🤖 [LLM ChatBot](https://github.com/Aarushhiii/QA-ChatBot-using-Llama2)
+- 📶 [LoRaWAN Simulator](https://github.com/Aarushhiii/lorawan-network-simulator)
 
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/aarushi-jain-448606195/)
