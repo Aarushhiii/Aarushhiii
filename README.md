@@ -22,7 +22,7 @@ interesting Python projects.
 
 ## 🎖️ Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fc474c0-4ccd-400a-8a42-c8ffb8e0632e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AI Skills Fest 2026](https://images.credly.com/size/680x680/images/0fc474c0-4ccd-400a-8a42-c8ffb8e0632e.png)](https://www.credly.com/badges/0fc474c0-4ccd-400a-8a42-c8ffb8e0632e/public_url)
 
 ## 📌 Projects
 - 🔬 [PCAP Analyzer](https://github.com/Aarushhiii/online-pcap-analyzer)
